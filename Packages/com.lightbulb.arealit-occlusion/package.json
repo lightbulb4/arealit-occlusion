@@ -1,0 +1,25 @@
+{
+  "name": "com.lightbulb.arealit-occlusion",
+  "displayName": "AreaLit Occlusion Baker",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Safely bake AreaLit occlusion maps with Bakery, adjust outputs, apply receiver maps, and repair shared-material lightmap UV conflicts.",
+  "author": {
+    "name": "Lightbulb",
+    "email": "nobodysystems@gmail.com",
+    "url": "https://github.com/lightbulb4"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.x.x"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/lightbulb4/arealit-occlusion#readme",
+  "changelogUrl": "https://github.com/lightbulb4/arealit-occlusion/blob/main/Packages/com.lightbulb.arealit-occlusion/CHANGELOG.md",
+  "keywords": [
+    "VRChat",
+    "AreaLit",
+    "Bakery",
+    "lighting",
+    "occlusion"
+  ]
+}
